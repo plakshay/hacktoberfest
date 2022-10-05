@@ -1,3 +1,8 @@
+#### Name: Lakshay Singhal
+- Place- India
+- Bio: 2nd year computer science and information technology student 
+-Github:https://github.com/plakshay
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
